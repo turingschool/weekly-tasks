@@ -10,6 +10,7 @@
 | Task                   | Person        | Notes  
 | -----------------------|---------------|-------|
 | Daily Outline          | Jeff / all    |       |
+| Community Night        |               |       |
 
 
 ### Due Wednesday
